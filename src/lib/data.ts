@@ -41,7 +41,7 @@ export const education = [
   {
     institution: "Adichunchanagiri Institute of Technology",
     location: "Chikkamagalur, India",
-    degree: "B Tech Mechanical Engineering",
+    degree: "B.E in Mechanical Engineering",
     period: "Aug 2017 - Jun 2021",
     achievements: [],
   },
