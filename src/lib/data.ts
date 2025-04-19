@@ -130,6 +130,6 @@ export const awards = [
     issuer: "HackerRank",
     date: "Jan 2023",
     type: "Coding Platform",
-    position: "5 start coder badge",
+    position: "5 star coder badge",
   }
 ];
