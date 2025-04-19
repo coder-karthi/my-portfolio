@@ -4,6 +4,7 @@ export const personalInfo = {
   email: "coder.karthi@gmail.com",
   github: "https://github.com/coder-karthi",
   linkedin: "https://www.linkedin.com/in/karthik-k-s-9126831a5/",
+  mobile: "+91 8277398693",
 };
 
 export const workExperience = [

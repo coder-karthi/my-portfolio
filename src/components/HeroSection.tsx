@@ -104,7 +104,7 @@ export default function HeroSection() {
                 whileHover={{ scale: 1.05, color: "#4b5563" }}
               >
                 <div className="h-4 w-4 mr-2">📞</div>
-                📱 {personalInfo.location}
+                📱 {personalInfo.mobile}
               </motion.div>
             </motion.div>
           </div>
