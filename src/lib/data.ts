@@ -81,7 +81,7 @@ export const skills = {
 export const projects = [
   // {
   //   title: "Net Zero Carbon Emissions",
-  //   github: "https://github.com/rishikesh2003/Prodigi",
+  //   github: "",
   //   description: [
   //     "WiFi-RTT: Developed indoor occupancy tracking for energy optimization.",
   //     "IoT Solutions: Implemented smart monitoring for energy efficiency and food waste reduction.",
@@ -92,7 +92,7 @@ export const projects = [
   // },
   // {
   //   title: "Mental Aarog",
-  //   github: "https://github.com/rishikesh2003/mental-aarog",
+  //   github: "",
   //   description: [
   //     "A holistic mental health app leveraging AI and blockchain for early detection and personalized solutions for depression.",
   //     "Features include social media analysis (ML-based sentiment tracking), PHQ-9 assessments, smartwatch integration for sleep and activity data, guided meditation, and smart suggestions for food, travel, music, and movies.",
